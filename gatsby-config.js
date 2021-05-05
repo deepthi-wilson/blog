@@ -27,8 +27,8 @@ module.exports = {
         ],
         externalLinks: [
           {
-            name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
+            name: `Spotify`,
+            url: `https://open.spotify.com/playlist/5PjudkJkWBGQptfdWfMY3r`,
           },
           {
             name: `Instagram`,
