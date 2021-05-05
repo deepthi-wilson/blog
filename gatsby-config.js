@@ -6,7 +6,7 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
   siteMetadata: {
-    siteTitle: `DeepthiWilson`,
+    siteTitle: `Deepthi Wilson`,
     siteTitleAlt: `Deepthi Wilson`,
   },
   pathPrefix: `/deepthiwilson-dev`,
@@ -32,8 +32,8 @@ module.exports = {
             url: `https://open.spotify.com/playlist/5PjudkJkWBGQptfdWfMY3r`,
           },
           {
-            name: `Instagram`,
-            url: `https://www.instagram.com/lekoarts.de/`,
+            name: `LinkedIn`,
+            url: `https://in.linkedin.com/in/deepthi-wilson-891ba817`,
           },
         ],
       },
