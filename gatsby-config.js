@@ -8,6 +8,8 @@ module.exports = {
   siteMetadata: {
     siteTitleAlt: `Minimal Blog - Gatsby Theme`,
   },
+  pathPrefix: `/deepthiwilson-dev`,
+
   plugins: [
     {
       resolve: `@lekoarts/gatsby-theme-minimal-blog`,
