@@ -22,8 +22,8 @@ module.exports = {
             slug: `/blog`,
           },
           {
-            title: `About`,
-            slug: `/about`,
+            title: `Resume`,
+            slug: `/resume`,
           },
         ],
         externalLinks: [
