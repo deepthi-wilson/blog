@@ -1,7 +1,7 @@
 const newsletterFeed = require(`./src/utils/newsletterFeed`)
 
 module.exports = (options) => {
-  const { feed = true, feedTitle = `Minimal Blog - @lekoarts/gatsby-theme-minimal-blog` } = options
+  const { feed = true, feedTitle = `Deepthi Wilson - Blog` } = options
 
   return {
     siteMetadata: {
